@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EF609005206D81F2006899F7 /* SliderChildViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF609004206D81F2006899F7 /* SliderChildViewController.swift */; };
 		EF80EBDA206D5A9B00E33867 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF80EBD9206D5A9B00E33867 /* AppDelegate.swift */; };
 		EF80EBDC206D5A9B00E33867 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF80EBDB206D5A9B00E33867 /* ViewController.swift */; };
 		EF80EBDF206D5A9B00E33867 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EF80EBDD206D5A9B00E33867 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		EF609004206D81F2006899F7 /* SliderChildViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderChildViewController.swift; sourceTree = "<group>"; };
 		EF80EBD6206D5A9B00E33867 /* yesiminch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = yesiminch.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EF80EBD9206D5A9B00E33867 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EF80EBDB206D5A9B00E33867 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 			children = (
 				EF80EBD9206D5A9B00E33867 /* AppDelegate.swift */,
 				EF80EBDB206D5A9B00E33867 /* ViewController.swift */,
+				EF609004206D81F2006899F7 /* SliderChildViewController.swift */,
 				EF80EBDD206D5A9B00E33867 /* Main.storyboard */,
 				EF80EBE0206D5A9B00E33867 /* Assets.xcassets */,
 				EF80EBE2206D5A9B00E33867 /* LaunchScreen.storyboard */,
@@ -136,6 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EF609005206D81F2006899F7 /* SliderChildViewController.swift in Sources */,
 				EF80EBDC206D5A9B00E33867 /* ViewController.swift in Sources */,
 				EF80EBDA206D5A9B00E33867 /* AppDelegate.swift in Sources */,
 			);
